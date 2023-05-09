@@ -12,8 +12,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-|--|
+<img alt="JS" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TS" title="Typescript" width="40px" src="https://github.com/Batyodie/Batyodie/assets/61266300/2b985be0-acaf-4f11-984a-79443fa54321">
+|--|--|
 
 **Libraries and Frameworks**
 
